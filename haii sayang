@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Happy Birthday Card</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="body">
+      <div class="birthdayCard">
+        <div class="cardFront">
+          <img
+            src="https://github.com/DzarelDeveloper/Img/blob/main/ballon.png?raw=true"
+            class="balloons"
+            alt="balloons"
+          />
+          <img
+            src="https://github.com/DzarelDeveloper/Img/blob/main/hat.png?raw=true"
+            alt="bdHat"
+            class="bdHat"
+          />
+          <img
+                     src="https://i.postimg.cc/Wpmgcqxr/R.png"
+               alt="cake"
+               class="cake"
+               />
+          <img src="#" alt="Foto pasangan mu" class="taaImg" />
+          <h2 class="happy">Happy Birthday to Nata!!</h2>
+        </div>
+        <div class="cardInside">
+          <h3 class="back">HAPPY BIRTHDAY bobby!</h3>
+          <p>From Piyaaa,</p>
+          <p>
+           Selamat ulang tahun untuk pacarku yang sangat kusayangi dan kucintai hehe. Semoga apa yang kamu inginkan dan rencanakan tercapai,sehat selalu sayangku. Makasii uda hadir di hidupku dan buat hidupku jadi lebih berwarna,wish you all the best Dear🎉🎂❤️🥂
+          </p>
+          <p>Selamat Ulangtahun Sayang</p>
+        </div>
+      </div>
+    </div>
+ 
+  </body>
+</html>
+  
+</body>
+</html>
